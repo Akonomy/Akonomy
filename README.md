@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python , c++ and other programs
 - 💞️ I’m looking to collaborate on making projects and learning 
 - 📫 How to reach me :  
--     via email adress:  akonomy.official@gmail.com 
+-      akonomy.official@gmail.com 
 -     
 
 <!---
