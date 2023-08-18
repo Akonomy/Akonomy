@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Python , c++ and other programs
 - 💞️ I’m looking to collaborate on making projects and learning 
 - 📫 How to reach me :  
--      akonomy.official@gmail.com 
+-      andrei.spac@student.usv.ro
+-  
 -     
 
 <!---
