@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Akonomy
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning Python , c and other programs
+- 🌱 I’m currently working with  Python , c and other programs
 - 💞️ I’m looking to collaborate on making projects and learning 
 - 📫 How to reach me :  
--      andrei.spac@student.usv.ro
+-      andrei.spac2@student.usv.ro
 -  
 -     
 
