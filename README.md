@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akonomy
-- 👀 I’m interested in programing
-- 🌱 I’m currently working with  Python , c and other programs
+- 👀 I’m interested in programing , AI, and more
+- 🌱 I’m currently working with  Python , C , AutoCad , FreeCad and other programs
 - 💞️ I’m looking to collaborate on making projects and learning 
 - 📫 How to reach me :  
 -      andrei.spac2@student.usv.ro
